@@ -30,7 +30,7 @@ Notebooks available here are to showcase how Python can be leveraged in answerin
 Each notebook has comments and markdown cells that explain the thought process for individual steps.
 
 ## Results
-The main findings and takeaways from the analysis of players' growth potential are presented at the post [here](https://medium.com/@adegajew/data-from-fifa-23-where-is-players-growth-potential-99cc988a1077).
+The main findings and takeaways from the analysis of players' growth potential are presented at the post [here](https://medium.com/@adegajew/99cc988a1077).
 
 ## Acknowledgments
 Must give credit to sofifa.com for the original data, clean data can be downloaded from Kaggle at the link [here](https://www.kaggle.com/datasets/cashncarry/fifa-23-complete-player-dataset?select=players_fifa23.csv) (the Licensing for the data and other descriptive information can also be found there). 
